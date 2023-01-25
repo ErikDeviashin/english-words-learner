@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "99d643e7-9333-494c-8a31-9549a3afa192"
+      }
+    },
+    "owner": "vsj_aq"
   }
 }
